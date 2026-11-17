@@ -1,0 +1,43 @@
+h1 {
+    text-align: center;
+    font-size: 300%;
+    font-family: Lato, sans-serif; 
+}
+
+h3 {
+    background-color: rgb(62, 135, 97);
+    color: white;
+    font-size: 120%;
+    padding: 0.5%;
+    font-family: Lato, sans-serif; 
+}
+
+p, li {
+    font-family: Arial, sans-serif;  
+    line-height: 140%;
+}
+
+.myClass1 {
+    font-weight: lighter;
+    text-align: center;
+    font-size: 170%;
+    color: rgb(62, 135, 97);
+    font-family: Lato, sans-serif;
+}
+
+.myClass2 {
+    font-family: Arial, sans-serif;
+    color: darkgrey;
+    font-weight: bold;
+}
+
+#myID1 {
+    font-weight: bold;
+    color: rgb(62, 135, 97);
+    font-size: 120%;
+    font-family: Lato, sans-serif;
+}
+
+#myIDbild {
+    border: 3px solid rgb(62, 135, 97);
+}

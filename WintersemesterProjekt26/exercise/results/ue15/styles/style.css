@@ -1,0 +1,38 @@
+/* Externe Halloween-Schriftart (Advanced Challenge) */
+@import url('https://fonts.googleapis.com/css2?family=Creepster&display=swap');
+
+body {
+    background-color: #1a0f1f;
+    color: #f5e6d3;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 20px;
+}
+
+h1, h2 {
+    font-family: 'Creepster', 'Trebuchet MS', Fantasy, cursive, sans-serif;
+    text-align: center;
+    text-transform: uppercase;
+    color: #ff7518;
+    letter-spacing: 2px;
+}
+
+p, li {
+    color: #f5e6d3;
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+a {
+    color: #ffcc00;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    color: #ff7518;
+}
+
+hr {
+    border: 1px solid #ff7518;
+}

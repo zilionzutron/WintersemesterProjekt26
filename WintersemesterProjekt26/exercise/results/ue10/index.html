@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>UE10 - Relative Pfadangaben</title>
+</head>
+<body>
+	<h1>ÜBUNG 10: Relative Pfadangaben (Agenturseite)</h1>
+
+	<h2>Übersicht der korrekten Referenzierungen:</h2>
+	<ol>
+		<li>
+			<strong>In der Seite <code>index.html</code> soll das Bild „susanne_krolop.jpg“ eingefügt werden:</strong><br>
+			<code>&lt;img src="images/team/susanne_krolop.jpg" alt="Susanne Krolop"&gt;</code>
+		</li>
+		<li>
+			<strong>Auf der Seite <code>fotografie.html</code> im Ordner <code>arbeiten</code> soll das Bild „portrait1.jpg“ eingefügt werden:</strong><br>
+			<code>&lt;img src="../../images/referenzbilder/fotoprojekte/portraitaufnahmen/portrait1.jpg" alt="Portrait 1"&gt;</code>
+		</li>
+		<li>
+			<strong>Auf der Seite <code>kontakte.html</code> im Ordner <code>pages</code> soll das Bild „max_muster.jpg“ eingefügt werden:</strong><br>
+			<code>&lt;img src="../images/team/max_muster.jpg" alt="Max Muster"&gt;</code>
+		</li>
+		<li>
+			<strong>Von der Datei <code>index.html</code> soll ein Link zur Seite <code>kontakte.html</code> gesetzt werden:</strong><br>
+			<code>&lt;a href="pages/kontakte.html"&gt;Kontakte&lt;/a&gt;</code>
+		</li>
+		<li>
+			<strong>Auf der Unterseite <code>videoprojekte.html</code> soll ein Link zur Unterseite <code>news.html</code> eingefügt werden:</strong><br>
+			<code>&lt;a href="../news.html"&gt;News&lt;/a&gt;</code>
+		</li>
+		<li>
+			<strong>Von der Datei <code>news.html</code> soll ein Link zur Seite <code>print.html</code> gesetzt werden:</strong><br>
+			<code>&lt;a href="arbeiten/print.html"&gt;Print&lt;/a&gt;</code>
+		</li>
+	</ol>
+
+	<hr>
+
+	<h2>Live-Demo der Referenzierungen auf der Startseite (<code>index.html</code>):</h2>
+	<p>Bild <code>susanne_krolop.jpg</code>:</p>
+	<p><img src="images/team/susanne_krolop.jpg" alt="Susanne Krolop" width="150"></p>
+	<p>Navigation zu den Unterseiten:</p>
+	<ul>
+		<li><a href="pages/kontakte.html">Kontakte</a></li>
+		<li><a href="pages/news.html">News</a></li>
+		<li><a href="pages/arbeiten/fotografie.html">Fotografie</a></li>
+		<li><a href="pages/arbeiten/videoprojekte.html">Videoprojekte</a></li>
+		<li><a href="pages/arbeiten/print.html">Print</a></li>
+	</ul>
+</body>
+</html>
