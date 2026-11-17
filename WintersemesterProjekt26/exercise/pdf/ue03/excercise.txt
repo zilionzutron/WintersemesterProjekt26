@@ -1,0 +1,5 @@
+Bearbeite die unten abgebildete Aufgabenstellung. 
+Erstelle dazu eine Liste mit den fünf Kontinenten und jeweils mind. 3 untergeordneten Ländern (außer Australien). 
+Überprüfe deine Datei vor Abgabe mit dem Validator!
+
+Benennung: UE03_Nachname.zip 

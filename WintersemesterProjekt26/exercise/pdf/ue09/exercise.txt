@@ -1,0 +1,22 @@
+Schritt 1: Lade dir die Files im Anhang auf deinen Rechner. Öffne die HTML-Datei "index.html" ind Visual Studio Code.
+
+Schritt 2: 
+Erstelle dort eine LINK-Liste zum Themenbereich "KOALAS". 
+
+Setze diese Liste auf zwei Arten (im gleichen Dokument!) um:
+
+    Variante A: reine Links (<a> Tags) im Code aufgelistet, durch horizontale Linien geteilt 
+    Variante B: Links in einer <ul>-oder <ol>-Liste verpackt 
+
+Die einzelnen Links sollten zu den passenden Unterseiten oder zu externen Webseiten (z. B. Wikipedia) führen.
+
+    Der Link "Über Koalas" sollte auf eine Unterseite führen, die eine Hauptüberschrift, mehrere Textabsätze, Unterüberschriften und einen Link zurück zur Startseite umfasst.
+    Der Link "Koalas in Australien" sollte auf diese Seite "https://www.savethekoala.com/german/gmkoalasdistribution" führen.
+    Der Link "Koala-Bilder" sollte auf eine Unterseite führen, die die vier Koala-Bilder (siehe Ordner images) und einen Link zurück zur Startseite beinhaltet.
+    Der Link "Mehr Informationen" sollte auf die Seite "https://de.wikipedia.org/wiki/Koala" führen.
+
+Beachte, dass du die nötigen Unterseiten selbt anlegen musst! Speichere deine Unterseiten im Ordner pages ab!
+
+Schritt 3: Ergänze deinen Code mit mindestens einem einzeiligen und einem mehrzeiligen Kommentar. 
+
+Schritt 4: Gib anschließend deinen ZIP-ORDNER hier ab. 

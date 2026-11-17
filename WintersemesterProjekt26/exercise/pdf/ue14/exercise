@@ -1,0 +1,14 @@
+Erstelle eine Bildergalerie FIRE aus den Bildern im ZIP-ORDNER und setze dabei die folgenden Schritte um.
+
+    Erstelle ein neues HTML Dokument, sowie ein neues CSS-Dokument.
+    Binde das CSS-Dokument als EXTERNES STYLESHEET ein. 
+    Erstelle nun eine Website mit grundsätzlich schwarzem Hintergrund (#000000) und weißer Schriftfarbe (#FFFFFF)
+    Füge die Überschrift "FIRE - VOLL IN FLAMMEN" sowie Unterüberschrift "our natural power on earth" ein. 
+    Anschließend eine Trennlinie einfügen - diese weiß einfärben. 
+    Binde die Bilder des ZIP-Ordners ein. Passe die Größe an, dass alle Bilder gut sichtbar sind (Bild). 
+    Dann Schriftgröße = 30px zuweisen
+    Buchstabenabstand = 5px einstellen
+    Serifenlose Schriftart wählen, Fallback-Schriftart definieren
+    Texte zentrieren und passende Farben zuweisen
+
+
